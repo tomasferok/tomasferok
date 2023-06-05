@@ -5,17 +5,15 @@
   <h3 align="center">Passionate about the IT industry, I specialize in backend development with Java SpringBoot also good at fronted technologies</h3>
 </div>
    
+---
+**About me:** 
 
-**tomasferok/tomasferok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am a graduate of the Bachelor's degree in Information Technologies from UTEC. You can check information about the program at the following link: 
+       https://utec.edu.uy/en/education/degree/information-technologies/
+- 🔭 I’m currently working on my own proyects. I lead a development team, and our business model revolves around SaaS (Software as a Service).
+- 🌱 I’m currently learning fronted technologies like Angular and React-Ionic, also microservices, and artificial intelligence models with Python.
+- 👨‍🏫 I love helping others grow as developers within the IT industry, and it is another one of my business models
+- 💬 Ask me about backend techologies.
+- 📫 Reach me by my e-mail: tomaasfer11@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
