@@ -4,7 +4,8 @@
   <h1 align="center">Hi, I'm Tomas</h1>
   <h3 align="center">Passionate about the IT industry, I specialize in backend development with Java SpringBoot also good at fronted technologies</h3>
 </div>
-<!--
+   
+
 **tomasferok/tomasferok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
