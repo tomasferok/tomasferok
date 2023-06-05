@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
   <h1 align="center">Hi, I'm Tomas</h1>
-  <h3 align="center"></h3>
+  <h3 align="center">Passionate about the IT industry, I specialize in backend development with Java SpringBoot also good at fronted technologies</h3>
 </div>
 <!--
 **tomasferok/tomasferok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
